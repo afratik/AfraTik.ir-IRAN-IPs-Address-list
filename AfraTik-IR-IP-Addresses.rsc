@@ -1,8 +1,4 @@
-# 2025-11-26 08:17:37 by RouterOS 7.21beta9
-# software id = I302-LQSW
-#
-# model = C53UiG+5HPaxD2HPaxD
-# serial number = HDG08Q8AZTM
+# 2025-11-26 08:17:37
 /ip firewall address-list
 add address=2.144.0.0/16 disabled=no dynamic=no list=IR
 add address=2.145.0.0/17 disabled=no dynamic=no list=IR
@@ -2944,3 +2940,4 @@ add address=91.107.248.234 disabled=no dynamic=no list=IR
 add address=127.0.0.1 disabled=no dynamic=no list=IR
 add address=185.132.0.0/16 disabled=no dynamic=no list=IR
 add address=85.198.13.0/24 disabled=no dynamic=no list=IR
+
