@@ -1,4 +1,4 @@
-برای ایمورت کردن آدرس لیست ایران در روتر میکروتیک خود به ترتیب دو دستور زیر را در ترمینال میکروتیک خود وارد کنید (روتر شما باید اینترنت داشته باشد)
+برای ایمپورت کردن آدرس لیست ایران در روتر میکروتیک خود به ترتیب دو دستور زیر را در ترمینال میکروتیک خود وارد کنید (روتر شما باید اینترنت داشته باشد)
 1.دانلود فایل آدرس لیست ایران در روتر میکروتیک
 
 /tool fetch url="https://raw.githubusercontent.com/afratik/AfraTik.ir-IRAN-IPs-Address-list/refs/heads/main/AfraTik.ir-IRAN-IPs-Address-list" mode=https dst-path=AfraTik.ir-IRAN-IPs-Address-list.rsc
